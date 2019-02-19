@@ -4,6 +4,7 @@
 
 * 将文件copy到potplayer对应插件位置，如`C:\Program Files\DAUM\PotPlayer\Extention\Subtitle\Search`
 * 选择**字幕>在线字幕搜索>下载字幕...**
+* 点击**设置**，选择所需的字幕源（只需设置一次）
 * 选择合适的字幕，选择**打开字幕**或**另存为...**
 
 ## 字幕源
